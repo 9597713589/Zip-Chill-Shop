@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Zip-Chill-Shop/static/js/main.a02ffb88.js",
+    "main.js": "/Zip-Chill-Shop/static/js/main.d84a2c14.js",
     "static/media/kiwi.jpg.jfif": "/Zip-Chill-Shop/static/media/kiwi.jpg.756fe20ba9624a27636c.jfif",
     "static/media/mixed.jpg.jfif": "/Zip-Chill-Shop/static/media/mixed.jpg.b55130395c3af219040e.jfif",
     "static/media/mango.jpg.jfif": "/Zip-Chill-Shop/static/media/mango.jpg.369ffa2ec60bdef1d3f9.jfif",
@@ -12,9 +12,9 @@
     "static/media/papaya.jpg.jfif": "/Zip-Chill-Shop/static/media/papaya.jpg.4b7370ba4b6e6227896b.jfif",
     "static/media/pomegranate.jpg.jfif": "/Zip-Chill-Shop/static/media/pomegranate.jpg.df1c24e98a2c5912670b.jfif",
     "index.html": "/Zip-Chill-Shop/index.html",
-    "main.a02ffb88.js.map": "/Zip-Chill-Shop/static/js/main.a02ffb88.js.map"
+    "main.d84a2c14.js.map": "/Zip-Chill-Shop/static/js/main.d84a2c14.js.map"
   },
   "entrypoints": [
-    "static/js/main.a02ffb88.js"
+    "static/js/main.d84a2c14.js"
   ]
 }
