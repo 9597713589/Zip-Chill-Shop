@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Zip-Chill-Shop/static/js/main.a02ffb88.js",
+    "static/media/kiwi.jpg.jfif": "/Zip-Chill-Shop/static/media/kiwi.jpg.756fe20ba9624a27636c.jfif",
+    "static/media/mixed.jpg.jfif": "/Zip-Chill-Shop/static/media/mixed.jpg.b55130395c3af219040e.jfif",
+    "static/media/mango.jpg.jfif": "/Zip-Chill-Shop/static/media/mango.jpg.369ffa2ec60bdef1d3f9.jfif",
+    "static/media/grape.jpg.jfif": "/Zip-Chill-Shop/static/media/grape.jpg.c4560ca0e1156e3f581b.jfif",
+    "static/media/strawberry.jpg.jfif": "/Zip-Chill-Shop/static/media/strawberry.jpg.5e120eb4fc73690a14c4.jfif",
+    "static/media/watermelon.jpg.jfif": "/Zip-Chill-Shop/static/media/watermelon.jpg.ec933c9113c500418d15.jfif",
+    "static/media/pineapple.jpg.jfif": "/Zip-Chill-Shop/static/media/pineapple.jpg.bc682700cb52a275db0c.jfif",
+    "static/media/apple.jpg.jfif": "/Zip-Chill-Shop/static/media/apple.jpg.c663297080419b8a57c7.jfif",
+    "static/media/papaya.jpg.jfif": "/Zip-Chill-Shop/static/media/papaya.jpg.4b7370ba4b6e6227896b.jfif",
+    "static/media/pomegranate.jpg.jfif": "/Zip-Chill-Shop/static/media/pomegranate.jpg.df1c24e98a2c5912670b.jfif",
+    "index.html": "/Zip-Chill-Shop/index.html",
+    "main.a02ffb88.js.map": "/Zip-Chill-Shop/static/js/main.a02ffb88.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a02ffb88.js"
+  ]
+}
